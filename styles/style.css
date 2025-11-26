@@ -71,8 +71,8 @@ ol {
   position: relative;
   gap: 30px;
   flex-direction: column;
-  height: 298px;
-  overflow-y: auto;  
+  overflow-y: auto;
+  height: 298px;    
 }
 
 .content__details {
